@@ -1,0 +1,15 @@
+alpha = 1;
+decreasing = true;
+alarm[0] = room_speed * 0.07;
+fade = 0;
+count = 0;
+key_use_count = 0;
+key_use_count_2 = 0;
+first_screen = true;
+how_to_play_screen = false;
+select_level_screen = false;
+layer_set_visible("Animations", false);
+options = ["PLAY", "HOW TO PLAY"];
+index = 0;
+options_2 = ["AS I LAY DYING", "SOCRATIC SEMINAR", "FREEPLAY", "MORE LEVELS COMING NOT SO SOON!!"];
+index_2 = 0;
